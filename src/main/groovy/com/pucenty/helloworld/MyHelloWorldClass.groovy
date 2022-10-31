@@ -1,7 +1,7 @@
 package com.pucenty.helloworld
 
 class MyHelloWorldClass {
-    static def printHelloWorld(){
-        println("Helo moto")
+    static def printHelloWorld(strtoprint){
+        println(strtoprint)
     }
 }
